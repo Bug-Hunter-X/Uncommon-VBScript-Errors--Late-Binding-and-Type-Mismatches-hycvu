@@ -1,0 +1,1 @@
+This repository demonstrates common yet uncommonly understood errors in VBScript programming, focusing on issues related to late binding and type mismatches.  The `bug.vbs` file shows examples of these errors. The `bugSolution.vbs` file provides corrected versions demonstrating proper error handling and type checking.
